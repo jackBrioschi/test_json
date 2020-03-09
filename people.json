@@ -1,5 +1,5 @@
-{"name":"Michael", country:"England"}
-{"name":"Andy", "age":30, country:"Poland"}
-{"name":"Justin", "age":19, country:"USA"}
-{name: "Jack", "age":28, country: "Italy"}
-{name: "Qingyang", "age":28, country:"China"}
+{"name":"Michael", "country":"England"}
+{"name":"Andy", "age":30, "country":"Poland"}
+{"name":"Justin", "age":19, "country":"USA"}
+{"name": "Jack", "age":28, "country": "Italy"}
+{"name": "Qingyang", "age":28, "country":"China"}
